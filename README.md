@@ -1,0 +1,2 @@
+- Set CANVAS_CONSUMER_SECRET environment variable at System level
+- Main code is in ASPNETWebFormsCanvas/Canvas.aspx
